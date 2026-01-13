@@ -45,12 +45,10 @@ Source: https://data.ajman.ae/
 
 ---
 
-## 🖼 Visual Outputs
-- Interactive dashboard (Flourish)
-- Maps, bar charts, stacked charts, bubble hierarchies
-- Story-driven scroll layout
+## 🔗 Live Project
+The full interactive visualization can be viewed here:  
+https://ajmantradenazua.my.canva.site/
 
-> Note: Interactive visuals are hosted externally and not rendered directly in this repository.
 
 ---
 
